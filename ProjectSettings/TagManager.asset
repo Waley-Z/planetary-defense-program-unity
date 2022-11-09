@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RGBA
+  - ColorSlider
+  - Attractor
+  - Planet
+  - Asteroid
+  - Moon
+  - Blackhole
+  - AsteroidDebris
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Asteroids
+  - Planets
+  - CamBox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3341441487
+    locked: 0
+  - name: Lines
+    uniqueID: 1913111157
+    locked: 0
+  - name: Player
+    uniqueID: 125933443
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,1 @@
+The rotation of the spacecraft is controlled by mouse and the thruster is controlled by spacebar. There's no simple breaking, so the player has to use the thruster in a proper direction to decelerate or steer, or the spacecraft may crash into planets or asteroids.
